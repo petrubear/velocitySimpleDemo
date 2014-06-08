@@ -1,0 +1,3 @@
+#foreach( $pet in $petList )
+ * $pet.name por solo $pet.price
+#end
